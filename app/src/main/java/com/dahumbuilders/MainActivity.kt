@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         supportFragmentManager.beginTransaction()
             .replace(R.id.main_container, SummaryReportFragment())
             .commit()
+        //        comment
     }
 }
