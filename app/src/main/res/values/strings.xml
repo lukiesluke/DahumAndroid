@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dahum Builders</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="summary_total_cashonhand">Total Cash On Hand</string>
+    <string name="summary_expenses">Total Expenses</string>
+    <string name="summary_total_cash">Total Cash</string>
+    <string name="summary_total_check">Total Check</string>
+    <string name="summary_bank_trans">Total Bank Trans</string>
+</resources>
