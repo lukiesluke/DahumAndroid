@@ -7,4 +7,5 @@
     <string name="summary_total_cash">Total Cash</string>
     <string name="summary_total_check">Total Check</string>
     <string name="summary_bank_trans">Total Bank Trans</string>
+    <string name="saved_summary_report">savedSummaryReport</string>
 </resources>

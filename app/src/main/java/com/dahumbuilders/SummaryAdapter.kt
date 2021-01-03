@@ -17,7 +17,7 @@ import java.text.DecimalFormat
 import java.text.SimpleDateFormat
 
 
-class SummaryAdapter(private val summary: List<Summary>) :
+class SummaryAdapter(var summary: List<Summary>) :
     RecyclerView.Adapter<SummaryAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
